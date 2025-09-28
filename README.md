@@ -3,7 +3,7 @@
     <h1>Olá! Eu sou Nathalia Pinheiro 👋</h1>
     <h3>Desenvolvedora Mobile Android | Kotlin & Jetpack Compose Enthusiast</h3>
     
-    <a href="[Link do seu LinkedIn]">
+    <a href="[[Link do seu LinkedIn](https://www.linkedin.com/in/nathaliacarolinepinheiro/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)]">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <img src="https://img.shields.io/badge/Status-Buscando%20Oportunidade-00A9FF?style=for-the-badge" alt="Status Badge"/>
@@ -35,10 +35,3 @@ Aqui estão algumas das principais tecnologias e ferramentas com as quais eu tra
 | **Testes** | JUnit, Mockito, Espresso |
 | **Ferramentas** | Android Studio, Git, Firebase, Fastlane, CI/CD |
 
----
-
-<div align="center">
-    <hr>
-    <img src="https://github-readme-stats.vercel.app/api?username=[seu-usuario]&show_icons=true&theme=default&hide_border=true&rank_icon=github&count_private=true" alt="GitHub Stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[seu-usuario]&layout=compact&langs_count=5&theme=default&hide_border=true" alt="Top Linguagens"/>
-</div>
