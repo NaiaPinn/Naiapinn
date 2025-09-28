@@ -1,9 +1,7 @@
 <div align="center">
-    <img src="https://media.giphy.com/media/LmN8EsgoaFjngwF0aX/giphy.gif" alt="Android Development GIF" width="100"/>
+    <img src="[https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamhqMnM4NHlpbTBkd2FsNjloYzB3N2Nhb3htdDRqMjUza2gxYWN3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/llarwdtFqG63IlqUR1/giphy.gif]" alt="Android Development GIF" width="100"/>
     <h1>Olá! Eu sou Nathalia Pinheiro 👋</h1>
     <h3>Desenvolvedora Mobile Android | Kotlin & Jetpack Compose Enthusiast</h3>
-    <a href="[[https://www.linkedin.com/in/nathaliacarolinepinheiro/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app]]">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </div>
 
 ---
