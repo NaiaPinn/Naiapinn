@@ -1,5 +1,4 @@
 <div align="center">
-    <img src="[https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamhqMnM4NHlpbTBkd2FsNjloYzB3N2Nhb3htdDRqMjUza2gxYWN3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/llarwdtFqG63IlqUR1/giphy.gif]" alt="Android Development GIF" width="100"/>
     <h1>Olá! Eu sou Nathalia Pinheiro 👋</h1>
     <h3>Desenvolvedora Mobile Android | Kotlin & Jetpack Compose Enthusiast</h3>
 </div>
